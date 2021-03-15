@@ -17,8 +17,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/zakiahsanS/termux-bot-waV2
-> cd termux-bot-waV2
+> git clone https://github.com/FxAngga-termux-bot-waV1
+> cd termux-bot-waV1
 > npm cache clear
 > bash install.sh
 > npm audit fix
@@ -35,6 +35,8 @@ Follow The Steps Below!
 * TEAM LORD BOT
 
 * TEAM DARK BOT
+
+* Angga 
 
 
 ## Features
@@ -231,7 +233,7 @@ Follow The Steps Below!
 * [YT](https://youtube.com/c/MikazuMZ)
 
 
-* [Req Fitur](https://wa.me/6283144780782)
+* [Req Fitur](https://wa.me/6285283424860)
 
 
 ---
