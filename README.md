@@ -17,7 +17,7 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/FxAngga-termux-bot-waV1
+> git clone https://github.com/FxAngga/FxAngga-termux-bot-waV1
 > cd termux-bot-waV1
 > npm cache clear
 > bash install.sh
